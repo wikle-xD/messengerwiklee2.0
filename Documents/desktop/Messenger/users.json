@@ -1,0 +1,85 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "wiklee",
+      "password": "2b001022c5291aa91b62cd5cc914ae33b92c8e7a43bfbbc14d74586f5630b05e",
+      "friends": [],
+      "incoming_requests": [],
+      "outgoing_requests": [],
+      "last_seen": 1763799493.146139,
+      "is_admin": true
+    },
+    {
+      "id": 2,
+      "username": "Wetzi",
+      "password": "6b7043febd8876a594353889083ae0640d2b303cebb795f9932794beb0317e73",
+      "friends": [],
+      "incoming_requests": [],
+      "outgoing_requests": [],
+      "last_seen": 1762192208.2108405
+    }
+  ],
+  "messages": [
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "привет!",
+      "ts": 1762175460.3872414
+    },
+    {
+      "from_id": 2,
+      "to_id": 1,
+      "text": "привет",
+      "ts": 1762175465.7340562
+    },
+    {
+      "from_id": 2,
+      "to_id": 1,
+      "text": "ты",
+      "ts": 1762175473.157959
+    },
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "да я",
+      "ts": 1762175477.418592
+    },
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "о да",
+      "ts": 1762176077.1972048
+    },
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "о",
+      "ts": 1762176513.3898125
+    },
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "ок пока!",
+      "ts": 1762178624.562494
+    },
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "wadasdasw",
+      "ts": 1762181391.5427337
+    },
+    {
+      "from_id": 2,
+      "to_id": 1,
+      "text": "sasd",
+      "ts": 1762181395.9736168
+    },
+    {
+      "from_id": 1,
+      "to_id": 2,
+      "text": "пока",
+      "ts": 1763799495.5453777
+    }
+  ]
+}
